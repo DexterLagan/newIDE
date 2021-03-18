@@ -12,6 +12,9 @@ What's ready:
 - compile the current source file into a standalone binary;
 - build & run the current program in one click;
 - advanced search & replace, lets one replace selected lines by a pattern, as well as replace all matches;
+- integrated online help with newLISP Web site search;
+- integrated GUI module help tab;
+- integrated newLISP forum browser tab;
 - compiles and runs on MacOSX High Sierra.
 
 What's not quite ready:
