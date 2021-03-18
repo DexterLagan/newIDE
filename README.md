@@ -31,7 +31,7 @@ The <b>Online Search</b> tab searches the newLISP Web site for any search patter
 
 The <b>Forum</b> tab opens the newLISP forum in an integrated browser:
 
-<p align="center"><img src="Screenshots/Help-Forum.PNG"></p>
+<p align="center"><img src="Screenshots/Help-Forums.PNG"></p>
 
 Cheers,
 
