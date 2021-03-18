@@ -1,7 +1,7 @@
 # newIDE
 newIDE is an Integrated Development Environment for the newLISP language.
 
-<p align="center"><img src="Screenshots/MainWindow.PNG"></p>
+<p align="center"><img src="Screenshots/Splash.PNG"></p>
 
 # Downloads
 
