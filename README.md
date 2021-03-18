@@ -3,6 +3,22 @@ newIDE is an Integrated Development Environment for the newLISP language.
 
 <p align="center"><img src="Screenshots/Splash.PNG"></p>
 
+What's ready:
+- full syntax highlighting for newLISP;
+- dockable REPL with shortcuts to common operations;
+- load, save, save as, display recent files;
+- evaluate newLISP code in the REPL;
+- evaluate the current source file in the REPL;
+- compile the current source file into a standalone binary;
+- build & run the current program in one click;
+- advanced search & replace, lets one replace selected lines by a pattern, as well as replace all matches;
+- compiles and runs on MacOSX High Sierra.
+
+What's not quite ready:
+
+- the dylib isn’t being found by the compiler at import time and therefor loading/saving settings isn’t working yet as it relies on the newLISP.dylib library to evaluate settings files;
+- working directory is now handled correctly to allow newLISP imports to find their files (i.e. (load “genann.lsp”) works as expected and no longer returns a file not found error when the file is in the current directory).
+
 # Downloads
 
 You can <b>download</b> the latest release for <b>Windows</b> and <b>MacOSX</b> [HERE](https://github.com/DexterLagan/newIDE/releases).
@@ -33,21 +49,6 @@ The <b>Forum</b> tab opens the newLISP forum in an integrated browser:
 
 <p align="center"><img src="Screenshots/Help-Forums.PNG"></p>
 
-Features:
-- full syntax highlighting for newLISP;
-- dockable REPL with shortcuts to common operations;
-- load, save, save as, display recent files;
-- evaluate newLISP code in the REPL;
-- evaluate the current source file in the REPL;
-- compile the current source file into a standalone binary;
-- build & run the current program in one click;
-- advanced search & replace, lets one replace selected lines by a pattern, as well as replace all matches;
-- compiles and runs on MacOSX High Sierra.
-
-What's not quite ready:
-
-- the dylib isn’t being found by the compiler at import time and therefor loading/saving settings isn’t working yet as it relies on the newLISP.dylib library to evaluate settings files;
-- working directory is now handled correctly to allow newLISP imports to find their files (i.e. (load “genann.lsp”) works as expected and no longer returns a file not found error when the file is in the current directory).
 
 Cheers,
 
