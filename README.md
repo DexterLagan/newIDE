@@ -24,7 +24,7 @@ What's not quite ready:
 
 # Downloads
 
-You can <b>download</b> the latest release for <b>Windows</b> and <b>MacOSX</b> [HERE](https://github.com/DexterLagan/newIDE/releases).
+You can <b>download</b> the latest release for <b>Windows</b> and <b>MacOSX</b> [HERE](/releases/latest).
 
 # Features
 
