@@ -15,12 +15,12 @@ What's ready:
 - integrated online help with newLISP Web site search;
 - integrated GUI module help tab;
 - integrated newLISP forum browser tab;
-- compiles and runs on MacOSX High Sierra.
+- compiles and runs on MacOSX High Sierra;
+- working directory is handled correctly to allow newLISP imports to find their files (i.e. (load “genann.lsp”) works as expected.
 
 What's not quite ready:
 
 - the dylib isn’t being found by the compiler at import time and therefor loading/saving settings isn’t working yet as it relies on the newLISP.dylib library to evaluate settings files;
-- working directory is now handled correctly to allow newLISP imports to find their files (i.e. (load “genann.lsp”) works as expected and no longer returns a file not found error when the file is in the current directory).
 
 # Downloads
 
