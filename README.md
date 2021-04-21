@@ -52,7 +52,6 @@ The <b>Forum</b> tab opens the newLISP forum in an integrated browser:
 
 <p align="center"><img src="Screenshots/Help-Forums.PNG"></p>
 
+## License
 
-Cheers,
-
-Dexter
+NewIDE is free software; see [LICENSE](https://github.com/DexterLagan/newIDE/blob/main/LICENSE) for more details.
