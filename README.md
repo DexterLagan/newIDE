@@ -22,11 +22,11 @@ What's not quite ready:
 
 - the dylib isn’t being found by the compiler at import time and therefor loading/saving settings isn’t working yet as it relies on the newLISP.dylib library to evaluate settings files;
 
-# Downloads
+## Downloads
 
 You can <b>download</b> the latest release for <b>Windows</b> and <b>MacOSX</b> [HERE](https://github.com/DexterLagan/newIDE/releases/tag/v1.0.133).
 
-# Features
+## Features
 
 The <b>Editor</b> lets one create and edit newLISP source files (.lsp). There is an integrated REPL which uses the bundled newLISP module to interactively evaluate newLISP code. One can also build the currently loaded source code into a standalone binary, and run it in one click:
 
